@@ -9,3 +9,6 @@ Vegan Store Project UI
 
 # Follow-Us Page
 ![alt tag](https://github.com/Muskan-sahu/Vegan_Store-UI/blob/master/FollowUs.png)
+
+# Contact-Us Page
+![alt tag](https://github.com/Muskan-sahu/Vegan_Store-UI/blob/master/ContactUs.png)
