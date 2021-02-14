@@ -6,3 +6,6 @@ Vegan Store Project UI
 
 # Testimonial Page
 ![alt tag](https://github.com/Muskan-sahu/Vegan_Store-UI/blob/master/Testimonal_Page.png)
+
+# Follow-Us Page
+![alt tag](https://github.com/Muskan-sahu/Vegan_Store-UI/blob/master/FollowUs.png)
